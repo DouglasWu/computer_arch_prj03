@@ -1,0 +1,13 @@
+This is the third project of the course Computer Architecture (10320CS410001)
+done by the student 102062202.
+The program is a simulator with memory hierarchy, Translation-Lookaside Buffer (TLB), and virtual page table mechanism based on MIPS R3000 ISA. The memory size, page size, cache total size, block size and set associativity of the cache should be configurable.
+
+To run this program, build the simulation environment by running:
+
+make
+
+To erase the files built by make all, run:
+
+make clean
+
+
