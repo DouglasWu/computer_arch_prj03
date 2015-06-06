@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1433557010 source:c:\users\douglas\documents\nthu\計算機結構\project3\archi03\error.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parameter.h"
+	"error.h"
+
+1433537751 c:\users\douglas\documents\nthu\計算機結構\project3\archi03\parameter.h
+
+1433557006 c:\users\douglas\documents\nthu\計算機結構\project3\archi03\error.h
+
+1433562091 source:c:\users\douglas\documents\nthu\計算機結構\project3\archi03\instruction.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parameter.h"
+	"instruction.h"
+	"hitmiss.h"
+
+1433556972 c:\users\douglas\documents\nthu\計算機結構\project3\archi03\instruction.h
+
+1433562159 source:c:\users\douglas\documents\nthu\計算機結構\project3\archi03\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"instruction.h"
+	"hitmiss.h"
+	"parameter.h"
+
+1433561460 source:c:\users\douglas\documents\nthu\計算機結構\project3\archi03\hitmiss.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parameter.h"
+	"hitmiss.h"
+
+1433560634 c:\users\douglas\documents\nthu\計算機結構\project3\archi03\hitmiss.h
+	"parameter.h"
+
